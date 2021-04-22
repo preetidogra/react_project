@@ -1,0 +1,27 @@
+.desktopnavigationWrapper {
+    background-color:pink;
+    font-family: calibri;
+    border-width: 20px;
+    grid-template: repeat (50, 1fr);
+}
+
+.navigationLogotype {
+font:medium;
+width:120px;
+height: 80px;
+align-self: center;
+
+}
+.signInButton,
+.shopButton,
+.accessoriesButton,
+.newsButton,
+.brandsButton {
+width: 90px;
+margin: 25px;
+align-self: center;
+font-size: medium;
+cursor: pointed;
+;
+
+}
